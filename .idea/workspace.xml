@@ -1,150 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="120f9ff8-37ec-47cf-811d-4bee89f24bd1" name="Default" comment="cpw">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/models/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/net/kakim/servlets/UserCreateServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/net/kakim/servlets/UserDeleteServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/net/kakim/servlets/UserEditServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/net/kakim/servlets/UserSearchServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/net/kakim/servlets/UserViewServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/classes/store/UserCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/create-fon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/fon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/fon3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/header1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/register.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/ClinicPetWeb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/net/kakim/servlets/UserCreateServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/net/kakim/servlets/UserDeleteServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/net/kakim/servlets/UserEditServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/net/kakim/servlets/UserSearchServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/net/kakim/servlets/UserViewServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/store/UserCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/coverage-reports/jacoco-unit.exec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/branchfc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/branchnc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/branchpc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/bundle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/class.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/greenbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/group.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/method.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/package.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/redbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/report.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/session.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/sort.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/source.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/net/kakim/servlets/UserCreateServletTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/net/kakim/servlets/UserDeleteServletTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/net/kakim/servlets/UserSearchServletTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/store/UserCacheTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/create-fon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/fon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/fon3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/header1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/register.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/cpw_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0_b01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cpw.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/views/user/UserCreate.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/views/user/UserEdit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/views/user/UserView.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/cpw_war_exploded/views/user/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/models/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mservlets/UserCreateServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mservlets/UserDeleteServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mservlets/UserEditServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mservlets/UserSearchServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mservlets/UserViewServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/service/Settings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/store/JdbcStorage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/store/MemoryStorage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/store/Storage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/store/UserCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mkakim.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/mservlets/UserCreateServletTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/mservlets/UserDeleteServletTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/mservlets/UserSearchServletTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/store/UserCacheTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/report.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.resources/sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/models/User.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/models/User.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/models/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/models/index.source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserCreateServlet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserCreateServlet.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserDeleteServlet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserDeleteServlet.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserEditServlet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserEditServlet.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserSearchServlet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserSearchServlet.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserViewServlet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/UserViewServlet.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/net.kakim.servlets/index.source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/store/UserCache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/store/UserCache.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/store/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/jacoco/store/index.source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.parsentev.servlets.UserCreateServletTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.parsentev.servlets.UserDeleteServletTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.parsentev.servlets.UserSearchServletTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.parsentev.servlets.UserCreateServletTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.parsentev.servlets.UserDeleteServletTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/ru.parsentev.servlets.UserSearchServletTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/views/user/UserCreate.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/views/user/UserEdit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/views/user/UserView.jsp" />
+    <list default="true" id="120f9ff8-37ec-47cf-811d-4bee89f24bd1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/store/JdbcStorage.java" afterPath="$PROJECT_DIR$/src/main/java/store/JdbcStorage.java" />
     </list>
     <ignored path="cpw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -175,27 +34,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JdbcStorage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JdbcStorage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/store/JdbcStorage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="665">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding>
                 <element signature="docComment;class#JdbcStorage#0" expanded="false" />
-                <marker date="1467284818163" expanded="true" signature="1073:1093" ph="select * fro... client" />
-                <marker date="1467284818163" expanded="true" signature="1483:1519" ph="insert into client... " />
-                <marker date="1467284818163" expanded="true" signature="2264:2298" ph="select * fro... client" />
+                <marker date="1467378879184" expanded="true" signature="1073:1093" ph="select * fro... client" />
+                <marker date="1467378879184" expanded="true" signature="1483:1519" ph="insert into client... " />
+                <marker date="1467378879184" expanded="true" signature="2207:2239" ph="DELETE FROM " />
+                <marker date="1467378879184" expanded="true" signature="2570:2604" ph="select * fro... client" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserCreateServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserCreateServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mservlets/UserCreateServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -235,6 +97,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="mkakim" />
         <option value="Merey" />
       </list>
     </option>
@@ -270,8 +133,8 @@
         <option value="$PROJECT_DIR$/src/main/java/store/MemoryStorage.java" />
         <option value="$PROJECT_DIR$/src/main/java/store/UserCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/service/Settings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/store/JdbcStorage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/store/JdbcStorage.java" />
       </list>
     </option>
   </component>
@@ -356,6 +219,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -486,8 +351,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -499,6 +362,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="165" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="165" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="840" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="164" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="840" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -1222,8 +1101,18 @@
       <workItem from="1467288024545" duration="1620000" />
       <workItem from="1467291707145" duration="2161000" />
       <workItem from="1467293944148" duration="1440000" />
-      <workItem from="1467371559984" duration="203000" />
+      <workItem from="1467371559984" duration="1257000" />
+      <workItem from="1467377039928" duration="1149000" />
+      <workItem from="1467378908268" duration="285000" />
     </task>
+    <task id="LOCAL-00001" summary="cpw">
+      <created>1467371796897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467371796897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1259,23 +1148,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54183000" />
+    <option name="totallyTimeSpent" value="56671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33753943" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5658858" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21742313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35962147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.4341142" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1286,12 +1173,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35962147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1660,19 +1549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/store/JdbcStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#JdbcStorage#0" expanded="false" />
-            <marker date="1467284818163" expanded="true" signature="1073:1093" ph="select * fro... client" />
-            <marker date="1467284818163" expanded="true" signature="1483:1519" ph="insert into client... " />
-            <marker date="1467284818163" expanded="true" signature="2264:2298" ph="select * fro... client" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mkakim.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1683,9 +1559,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mservlets/UserCreateServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding />
+        <state relative-caret-position="221">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/store/JdbcStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#JdbcStorage#0" expanded="false" />
+            <marker date="1467378879184" expanded="true" signature="1073:1093" ph="select * fro... client" />
+            <marker date="1467378879184" expanded="true" signature="1483:1519" ph="insert into client... " />
+            <marker date="1467378879184" expanded="true" signature="2207:2239" ph="DELETE FROM " />
+            <marker date="1467378879184" expanded="true" signature="2570:2604" ph="select * fro... client" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -52,14 +52,21 @@ public class JdbcStorage implements Storage {
         }
         throw new IllegalStateException("Could not create new user");
     }
-
     @Override
     public void edit(User user) {
 
     }
     @Override
     public void delete(int id) {
+        try (final PreparedStatement stmt = (PreparedStatement) this.connection.prepareStatement("DELETE FROM client WHERE id =(?)")){
+            stmt.setInt(1, id);
+            ResultSet rs = stmt.executeQuery();
+            while (rs.next()) {
 
+            }
+        } catch (SQLException e) {
+
+        }
     }
     @Override
     public User get(int id) {
