@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <servlet-name>UserViewServlet</servlet-name>
+        <servlet-class>net.kakim.servlets.UserViewServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UserCreateServlet</servlet-name>
+        <servlet-class>net.kakim.servlets.UserCreateServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UserEditServlet</servlet-name>
+        <servlet-class>net.kakim.servlets.UserEditServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UserDeleteServlet</servlet-name>
+        <servlet-class>net.kakim.servlets.UserDeleteServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UserSearchServlet</servlet-name>
+        <servlet-class>net.kakim.servlets.UserSearchServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserViewServlet</servlet-name>
+        <url-pattern>/user/view</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UserCreateServlet</servlet-name>
+        <url-pattern>/user/create</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UserEditServlet</servlet-name>
+        <url-pattern>/user/edit</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UserDeleteServlet</servlet-name>
+        <url-pattern>/user/delete</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>UserSearchServlet</servlet-name>
+        <url-pattern>/user/search</url-pattern>
+    </servlet-mapping>
+
+
+    <welcome-file-list>
+        <welcome-file>/views/user/UserView.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>

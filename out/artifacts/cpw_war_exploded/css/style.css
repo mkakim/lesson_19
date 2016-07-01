@@ -1,0 +1,8 @@
+body {
+/*background-image: url("http://localhost:8080/cpw/images/fon2.png");*/
+}
+h1 {
+    font-style: inherit;
+    color: #2e67ff;
+    align-items:  center;
+}
